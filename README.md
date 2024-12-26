@@ -125,3 +125,4 @@ guide [HERE](https://github.com/larymak/Python-project-Scripts/blob/main/CONTRIB
 | 76   | [Internet Connectivity Monitor](https://github.com/larymak/Python-project-Scripts/tree/main/AUTOMATION/InternetConnectivityMonitor)                                                                | [Prince Khunt](https://github.com/princekhunt)     |
 | 76   | [E-commerce](https://github.com/larymak/Python-project-Scripts/tree/main/FLASK%20PROJECTS/E-commerce)                                                                | [Eter Nada](https://github.com/tarenjk24)     |
 
+| 77  | [Gesture Controlled Volume](https://github.com/larymak/Python-project-Scripts/tree/gesture-controlled-volume/PYTHON%20APPS/GestureControlledVolume)                                                                | [Lisa Bojamma]([https://github.com/tarenjk24](https://github.com/lisa1612))     |
